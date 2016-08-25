@@ -1,0 +1,6 @@
+C:\Users\ChristineEve\Desktop\Bootcamp\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\ChristineEve\Desktop\Bootcamp\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\ChristineEve\Desktop\Bootcamp\Constructors\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+C:\Users\ChristineEve\Desktop\Bootcamp\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\Constructors\Constructors\obj\Debug\Constructors.pdb

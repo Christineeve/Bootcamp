@@ -1,0 +1,6 @@
+C:\Users\ChristineEve\Desktop\Bootcamp\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\ChristineEve\Desktop\Bootcamp\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\ChristineEve\Desktop\Bootcamp\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\ChristineEve\Desktop\Bootcamp\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\Classes\Classes\obj\Debug\Classes.pdb

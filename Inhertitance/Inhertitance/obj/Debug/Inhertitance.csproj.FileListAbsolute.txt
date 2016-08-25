@@ -1,0 +1,6 @@
+C:\Users\ChristineEve\Desktop\Bootcamp\Inhertitance\Inhertitance\bin\Debug\Inhertitance.exe.config
+C:\Users\ChristineEve\Desktop\Bootcamp\Inhertitance\Inhertitance\obj\Debug\Inhertitance.csprojResolveAssemblyReference.cache
+C:\Users\ChristineEve\Desktop\Bootcamp\Inhertitance\Inhertitance\bin\Debug\Inhertitance.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\Inhertitance\Inhertitance\bin\Debug\Inhertitance.pdb
+C:\Users\ChristineEve\Desktop\Bootcamp\Inhertitance\Inhertitance\obj\Debug\Inhertitance.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\Inhertitance\Inhertitance\obj\Debug\Inhertitance.pdb

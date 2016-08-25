@@ -1,0 +1,6 @@
+C:\Users\ChristineEve\Desktop\Bootcamp\AccessModifers\AccessModifers\bin\Debug\AccessModifers.exe.config
+C:\Users\ChristineEve\Desktop\Bootcamp\AccessModifers\AccessModifers\bin\Debug\AccessModifers.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\AccessModifers\AccessModifers\bin\Debug\AccessModifers.pdb
+C:\Users\ChristineEve\Desktop\Bootcamp\AccessModifers\AccessModifers\obj\Debug\AccessModifers.csprojResolveAssemblyReference.cache
+C:\Users\ChristineEve\Desktop\Bootcamp\AccessModifers\AccessModifers\obj\Debug\AccessModifers.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\AccessModifers\AccessModifers\obj\Debug\AccessModifers.pdb

@@ -1,0 +1,6 @@
+C:\Users\ChristineEve\Desktop\Bootcamp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+C:\Users\ChristineEve\Desktop\Bootcamp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\CSharpFundamentals\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+C:\Users\ChristineEve\Desktop\Bootcamp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\ChristineEve\Desktop\Bootcamp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+C:\Users\ChristineEve\Desktop\Bootcamp\CSharpFundamentals\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

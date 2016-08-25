@@ -1,0 +1,2 @@
+C:\Users\ChristineEve\Desktop\Bootcamp\Conditionals2\Conditionals2\bin\Debug\Conditionals2.exe.config
+C:\Users\ChristineEve\Desktop\Bootcamp\Conditionals2\Conditionals2\obj\Debug\Conditionals2.csprojResolveAssemblyReference.cache
